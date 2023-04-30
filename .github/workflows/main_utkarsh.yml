@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'utkarsh'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_51757EFDD4F34A16B97C535EB0C38BB1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_015366E1324F4D618DA8563E832D2025 }}
